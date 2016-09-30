@@ -39,7 +39,7 @@ if __name__ == '__main__':
     # Decrypt a string
     decrypted = encrypter.decrypt_string(encrypted)
     print("Your decrypted string: {}".format(decrypted))
-
+```
 ## Contributors
 
 Project is open for contribution. Pull requests will be reviewed and merged
